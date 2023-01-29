@@ -3,9 +3,9 @@
 ## Contributors
 
 - Anh Dao (John) - https://github.com/Johnx69
-- Bach Nguyen(Tom Dang) - https://github.com/bach6104
+- Bach Nguyen - 
 - Tri Khuc - 
-- Minh Nguyen - 
+- Minh Nguyen - https://github.com/minhngvh
 
 ## Purposes
 
