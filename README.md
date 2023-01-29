@@ -3,7 +3,7 @@
 ## Contributors
 
 - Anh Dao (John) - https://github.com/Johnx69
-- Bach Nguyen - 
+- Bach Nguyen (Tom Dang) - https://github.com/bach6104 
 - Tri Khuc - 
 - Minh Nguyen - https://github.com/minhngvh
 
