@@ -1,4 +1,4 @@
-# Spartan Hacker 8 - Cookmeai
+# Spartan Hacker 8 - Cookmeai (Winner of Best Use of AI)
 
 ## Contributors
 
